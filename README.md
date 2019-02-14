@@ -16,7 +16,7 @@ Titel und Kurzbeschreibung der einzelnen Beiträge wurden durch die jeweiligen g
 
 ## Datenmodell
 
-Ddialect: "csvddfVersion": 1.2   
+Dialect: "csvddfVersion": 1.2   
 delimiter: ";"   
 doubleQuote: true   
 lineTerminator: "\\r\\n"    
