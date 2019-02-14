@@ -41,12 +41,12 @@ E-Mail: kai-christian.bruhn@hs-mainz.de
 
 ## Zugehörige Quellen
 
-Das Programm ist in der Kurzform als PDF (ZENODO $$$$) und mit den Zusammenfassungen auf der Webseite <https://dhd2019.org> veröffentlicht. Die Texte gehen aus den eingesendeten Beiträgen zu den Einreichungen hervor, die teilweise einer leichten redaktionellen Überarbeitung unterzogen wurden. 
+Das Programm ist in der Kurzform als PDF (ZENODO https://zenodo.org/record/2565189) und mit den Zusammenfassungen auf der Webseite <https://dhd2019.org> veröffentlicht. Die Texte gehen aus den eingesendeten Beiträgen zu den Einreichungen hervor, die teilweise einer leichten redaktionellen Überarbeitung unterzogen wurden. 
 
 ## Links
 
 Webseite DHd2019 [dhd2019.org](https://dhd2019.org/)
-Programmheft $$$$ Zenodo
+Programmheft https://zenodo.org/record/2565189 Zenodo
 
 ## Lizenz
 
