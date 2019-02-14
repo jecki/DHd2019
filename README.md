@@ -14,16 +14,15 @@ Die csv-Datei enthält Titel, Verfasserinnen und Verfasser, sowie eine Kurzzusam
 Das Programmkomitee der DHd 2019 - multimedial & multimodal ist für die Zusammenstellung des Programms inkl. Benennung der Sessions verantwortlich. Das PK steht unter dem Vorsitz von Patrick Sahle. Weitere Mitglieder sind Kai-Christian Bruhn, Alexander Czmiel, Lisa Dieckmann, Petra Gehring, Andreas Henrich, Mareike König, Andreas Münzmay, Stefan Schmunk, Christof Schöch, Georg Vogeler, Lars Wieneke und Heike Zinsmeister.
 Titel und Kurzbeschreibung der einzelnen Beiträge wurden durch die jeweiligen genannten Autorinnen und Autoren verfasst. 
 
-## Dateimodell
+## Datenmodell
 
- "dialect":
-    "csvddfVersion": 1.2,
-    "delimiter": ";",
-    "doubleQuote": true,
-    "lineTerminator": "\\r\\n",
-    "quoteChar": """,
-    "skipInitialSpace": true,
-    "header": true
+Ddialect: "csvddfVersion": 1.2   
+delimiter: ";"   
+doubleQuote: true   
+lineTerminator: "\\r\\n"    
+quoteChar": """
+skipInitialSpace": true   
+header": true
 
 ## Dokumentstruktur
 
